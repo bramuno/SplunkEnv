@@ -1,0 +1,2 @@
+111.111.111.111 protocol="tcp" dest_port="20505" time="1596411189000" src_port="41513" parent_rule="0" action="Accept" ifdir="inbound" ifname="eth0" dst="199.111.101.111" src="111.111.111.111" 
+

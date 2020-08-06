@@ -1,0 +1,17 @@
+GET /browse/search
+GET /browse/tracks
+POST /sync/createplaylist
+POST /playhistory/uploadhistory
+POST /auth
+GET /web
+GET /authserv
+GET /postdata
+GET /billview
+GET /tango
+GET /sharks
+POST /datamine
+POST /newPlaylist
+POST /findthis
+POST /getme
+POST /gotthat
+POST /trackData
