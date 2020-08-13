@@ -1,0 +1,1 @@
+DEVICENAME 2020-08-02 22:00:00 12 111.111.111.11 username - - DENIED "Web Ads/Analytics" - 200 TCP_DENIED CONNECT - tcp sync.1rx.io 443 / - - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" 55.55.55.55 177 218 - "none" - 66.66.66.66 ICAP_NOT_SCANNED 0
