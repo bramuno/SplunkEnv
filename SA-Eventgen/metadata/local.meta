@@ -1,2 +1,2 @@
-access = read : [ * ], write : [ * ]
+access = read : [ * ], write : [ admin,power ]
 export = system
